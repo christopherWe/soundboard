@@ -1,37 +1,58 @@
 <template>
-      <button class="sound" @click="request">
-        <input type="checkbox" class="soundcheckbox" @mouseover="toggleSound" @mouseout="toggleSound" @click="queueSelection"/>
-        {{sound.title}}
-      </button>
+  <button class="sound" @click="request">
+    <input type="checkbox" class="soundcheckbox"
+           @mouseover="toggleSound"
+           @mouseout="toggleSound"
+           @click="queueSelection"/>
+    {{sound.title}}
+  </button>
 </template>
 
 <script>
   import {pick} from 'lodash';
+
   export default {
     props: ['sound'],
-    computed:{},
-    data(){
-      return{
-       soundEnabled: true
+    computed: {},
+    data() {
+      return {
+        soundEnabled: true,
+        selected: false
       }
     },
-    methods:{
-      request(){
-        if(this.$data.soundEnabled){
+    methods: {
+      request() {
+        if (this.$data.soundEnabled) {
           const request = new XMLHttpRequest();
           request.open('POST', 'http://10.1.95.31:8001/play', true);
           request.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
-          request.send(JSON.stringify(pick(this.sound,'file')));
+       //   request.send(JSON.stringify(pick(this.sound, 'file')));
         }
       },
-      queueSelection(){
-        console.log("select");
+      queueSelection() {
+        this.$data.selected = !this.$data.selected;
+        if (this.$data.selected == true) {
+          this.$emit('prepareQueue',
+            {
+              type: "add",
+              file: this.sound.file
+            }
+          );
+        }
+        else {
+          this.$emit('prepareQueue',
+            {
+              type: "remove",
+              file: this.sound.file
+            }
+          )
+        }
       },
-      toggleSound(){
-        if(event.type == "mouseover"){
+      toggleSound() {
+        if (event.type == "mouseover") {
           this.$data.soundEnabled = false;
         }
-        else if(event.type == "mouseout"){
+        else if (event.type == "mouseout") {
           this.$data.soundEnabled = true;
         }
       }
@@ -55,6 +76,7 @@
     color         : white;
     background    : #0098dd;
   }
+
   .soundcheckbox {
     margin   : 0;
     margin   : 0;

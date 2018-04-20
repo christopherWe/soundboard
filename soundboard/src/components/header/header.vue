@@ -32,7 +32,7 @@
       <div>
         <button class="premiumsound">Sound des Monats</button>
         <button class="actionbutton">Random</button>
-        <button class="actionbutton">Push2Queue</button>
+        <button class="actionbutton" @click="pushToQueue" >Push2Queue</button>
       </div>
       <div class="volume"><input type="range"/></div>
       <div class="right">
@@ -78,6 +78,9 @@
           return false;
         }
         this.$emit('search', this.$data.query);
+      },
+      pushToQueue(){
+        this.$emit('pushToQueue');
       }
     },
     data() {
