@@ -1,0 +1,1260 @@
+{
+  "colors": {
+    "background": "#615a55",
+    "button": "#dedede",
+    "playing": "#ea2c46",
+    "text": "#000000"
+  },
+  "sounds": [
+    {
+      "title": "Das ist schön",
+      "category": "test",
+      "file": "asdad.wav"
+    },
+    {
+      "title": "Am Runden Tisch",
+      "category": "default",
+      "file": "am_runden_tisch.wav"
+    },
+    {
+      "title": "Oh Nein",
+      "category": "default",
+      "file": "oh_nein.wav"
+    },
+    {
+      "title": "Stronghold Crusader - Du Bauer",
+      "category": "default",
+      "file": "Stronghold Crusader - Du Bauer.wav"
+    },
+    {
+      "title": "This Is Sparta",
+      "category": "default",
+      "file": "this is sparta.wav"
+    },
+    {
+      "title": "trollolol",
+      "category": "default",
+      "file": "trollolol.swf.wav"
+    },
+    {
+      "title": "GG",
+      "category": "default",
+      "file": "GG.wav"
+    },
+    {
+      "title": "fus-ro-dah",
+      "category": "default",
+      "file": "fus-ro-dah.wav"
+    },
+    {
+      "title": "error",
+      "category": "default",
+      "file": "error.wav"
+    },
+    {
+      "title": "falconpunch",
+      "category": "default",
+      "file": "falconpunch.wav"
+    },
+    {
+      "title": "Hadouken",
+      "category": "default",
+      "file": "Hadouken.wav"
+    },
+    {
+      "title": "sadtrombone",
+      "category": "default",
+      "file": "sadtrombone.wav"
+    },
+    {
+      "title": "Hello...is it me",
+      "category": "default",
+      "file": "Hello...is it me.wav"
+    },
+    {
+      "title": "NEW CHALLENGER",
+      "category": "default",
+      "file": "NEWCHALLENGER.wav"
+    },
+    {
+      "title": "cantina",
+      "category": "default",
+      "file": "cantina.wav"
+    },
+    {
+      "title": "panic-alarm",
+      "category": "default",
+      "file": "panic-alarm.wav"
+    },
+    {
+      "title": "Triple",
+      "category": "default",
+      "file": "Triple.wav"
+    },
+    {
+      "title": "Damn Son ",
+      "category": "default",
+      "file": "Damn Son .wav"
+    },
+    {
+      "title": "Jeff",
+      "category": "default",
+      "file": "Jeff.wav"
+    },
+    {
+      "title": "is mir egal",
+      "category": "default",
+      "file": "is mir egal.wav"
+    },
+    {
+      "title": "X",
+      "category": "default",
+      "file": "X.wav"
+    },
+    {
+      "title": "sax",
+      "category": "default",
+      "file": "sax.wav"
+    },
+    {
+      "title": "mimimi",
+      "category": "default",
+      "file": "mimimi.wav"
+    },
+    {
+      "title": "Victory!",
+      "category": "default",
+      "file": "Victory!.wav"
+    },
+    {
+      "title": "secret",
+      "category": "default",
+      "file": "secret.wav"
+    },
+    {
+      "title": "mehr arbeit",
+      "category": "default",
+      "file": "mehr arbeit.wav"
+    },
+    {
+      "title": "Schwein gehabt",
+      "category": "default",
+      "file": "Schwein gehabt.wav"
+    },
+    {
+      "title": "Arbeit Arbeit",
+      "category": "default",
+      "file": "Arbeit Arbeit.wav"
+    },
+    {
+      "title": "murloc",
+      "category": "default",
+      "file": "murloc.wav"
+    },
+    {
+      "title": "Wololo",
+      "category": "default",
+      "file": "Wololo.wav"
+    },
+    {
+      "title": "Nyan Cat [original]",
+      "category": "default",
+      "file": "Nyan Cat [original].wav"
+    },
+    {
+      "title": "work done",
+      "category": "default",
+      "file": "work done.wav"
+    },
+    {
+      "title": "dnd",
+      "category": "default",
+      "file": "dnd.wav"
+    },
+    {
+      "title": "was ihr wolle",
+      "category": "default",
+      "file": "was ihr wolle.wav"
+    },
+    {
+      "title": "alles klar",
+      "category": "default",
+      "file": "alles klar.wav"
+    },
+    {
+      "title": "no time",
+      "category": "default",
+      "file": "no time.wav"
+    },
+    {
+      "title": "rdy for work",
+      "category": "default",
+      "file": "rdy for work.wav"
+    },
+    {
+      "title": "starcraft_rockroll",
+      "category": "default",
+      "file": "starcraft_rockroll.wav"
+    },
+    {
+      "title": "starcraft_ghost",
+      "category": "default",
+      "file": "starcraft_ghost.wav"
+    },
+    {
+      "title": "battlecruiser_alert",
+      "category": "default",
+      "file": "battlecruiser_alert.wav"
+    },
+    {
+      "title": "starcraft_priority_alert",
+      "category": "default",
+      "file": "starcraft_priority_alert.wav"
+    },
+    {
+      "title": "boring",
+      "category": "default",
+      "file": "boring.wav"
+    },
+    {
+      "title": "feel the thunder",
+      "category": "default",
+      "file": "feel the thunder.wav"
+    },
+    {
+      "title": "SuperBody",
+      "category": "default",
+      "file": "SuperBody.wav"
+    },
+    {
+      "title": "LastDenScheiss",
+      "category": "default",
+      "file": "LastDenScheiss.wav"
+    },
+    {
+      "title": "Lenken Nicht Denken",
+      "category": "default",
+      "file": "LenkenNichtDenken.wav"
+    },
+    {
+      "title": "Alpecin - In der Tat2",
+      "category": "default",
+      "file": "Alpecin - In der Tat2.wav"
+    },
+    {
+      "title": "rogan ",
+      "category": "default",
+      "file": "rogan .wav"
+    },
+    {
+      "title": "Ahh",
+      "category": "default",
+      "file": "Ahh.wav"
+    },
+    {
+      "title": "KingOfLoosers",
+      "category": "default",
+      "file": "KingOfLoosers.wav"
+    },
+    {
+      "title": "high noon",
+      "category": "default",
+      "file": "high noon.wav"
+    },
+    {
+      "title": "Ryūjin no ken wo kurae",
+      "category": "default",
+      "file": "Ryūjin no ken wo kurae.wav"
+    },
+    {
+      "title": "Pink Fluffy Unicorns",
+      "category": "default",
+      "file": "pink-fluffy-unicorns.wav"
+    },
+    {
+      "title": "extra-meeting",
+      "category": "default",
+      "file": "extra-meeting.wav"
+    },
+    {
+      "title": "Dafuer stehe ich mit meinem Namen",
+      "category": "default",
+      "file": "Dafuer_stehe_ich_mit_meinem_Namen.wav"
+    },
+    {
+      "title": "chewbacca",
+      "category": "default",
+      "file": "chewbacca.wav"
+    },
+    {
+      "title": "A-Team",
+      "category": "default",
+      "file": "A-Team.wav"
+    },
+    {
+      "title": "Nudeln",
+      "category": "default",
+      "file": "Nudeln.wav"
+    },
+    {
+      "title": "Bob_Kelso",
+      "category": "default",
+      "file": "Bob_Kelso.wav"
+    },
+    {
+      "title": "Die_Nudel_ist_eine_Frucht",
+      "category": "default",
+      "file": "Die_Nudel_ist_eine_Frucht.wav"
+    },
+    {
+      "title": "Halt_Stop",
+      "category": "default",
+      "file": "Halt_Stop.wav"
+    },
+    {
+      "title": "free_food",
+      "category": "default",
+      "file": "free_food.wav"
+    },
+    {
+      "title": "Camel_Cigarettes",
+      "category": "default",
+      "file": "Camel_Cigarettes.wav"
+    },
+    {
+      "title": "retard_alert",
+      "category": "default",
+      "file": "retard_alert.wav"
+    },
+    {
+      "title": "wubalubadubdub",
+      "category": "default",
+      "file": "wubalubadubdub.wav"
+    },
+    {
+      "title": "mr_meeseeks",
+      "category": "default",
+      "file": "mr_meeseeks.wav"
+    },
+    {
+      "title": "Riggity",
+      "category": "default",
+      "file": "Riggity.wav"
+    },
+    {
+      "title": "Burger_Time!",
+      "category": "default",
+      "file": "Burger_Time!.wav"
+    },
+    {
+      "title": "Du_Musst_Rauchen",
+      "category": "default",
+      "file": "Du_Musst_Rauchen.wav"
+    },
+    {
+      "title": "fake_news",
+      "category": "default",
+      "file": "fake_news.wav"
+    },
+    {
+      "title": "I_am_rich",
+      "category": "default",
+      "file": "I_am_rich.wav"
+    },
+    {
+      "title": "wiggle_wiggle",
+      "category": "default",
+      "file": "wigle_wigle.wav"
+    },
+    {
+      "title": "Team",
+      "category": "default",
+      "file": "Team.wav"
+    },
+    {
+      "title": "Blau_und_Schlau_Song",
+      "category": "default",
+      "file": "Blau_und_Schlau_Song.wav"
+    },
+    {
+      "title": "Norbert",
+      "category": "default",
+      "file": "Nobel_Prize.wav"
+    },
+    {
+      "title": "igotmailyeh",
+      "category": "default",
+      "file": "igotmailyeh.wav"
+    },
+    {
+      "title": "Leeroy_Jenkins",
+      "category": "default",
+      "file": "Leeroy_Jenkins.wav"
+    },
+    {
+      "title": "Die_Post_ist_da!!",
+      "category": "default",
+      "file": "Die_Post_ist_da!!.wav"
+    },
+    {
+      "title": "skrrrra",
+      "category": "default",
+      "file": "skrrrra.wav"
+    },
+    {
+      "title": "Last Christmas",
+      "category": "default",
+      "file": "Last Christmas.wav"
+    },
+    {
+      "title": "Löschteuchalle",
+      "category": "default",
+      "file": "Löschteuchalle.wav"
+    },
+    {
+      "title": "Turkelton",
+      "category": "default",
+      "file": "Turkelton.wav"
+    },
+    {
+      "title": "scotch",
+      "category": "default",
+      "file": "scotch.wav"
+    },
+    {
+      "title": "Swag",
+      "category": "default",
+      "file": "Swag.wav"
+    },
+    {
+      "title": "Gettin_Money",
+      "category": "default",
+      "file": "Gettin_Money.wav"
+    },
+    {
+      "title": "Im_the_happiest_christmas_tree",
+      "category": "default",
+      "file": "Im_the_happiest_christmas_tree.wav"
+    },
+    {
+      "title": "Happy_Tree_Friends",
+      "category": "default",
+      "file": "Happy_Tree_Friends.wav"
+    },
+    {
+      "title": "zaehle_Money",
+      "category": "default",
+      "file": "zaehle_Money.wav"
+    },
+    {
+      "title": "chuck_testa",
+      "category": "default",
+      "file": "chuck_testa.wav"
+    },
+    {
+      "title": "legitness",
+      "category": "default",
+      "file": "legitness.wav"
+    },
+    {
+      "title": "tadaah",
+      "category": "default",
+      "file": "tadaah.wav"
+    },
+    {
+      "title": "Auch_ich_war_ein_kleines_Schwein",
+      "category": "default",
+      "file": "Auch_ich_war_ein_kleines_Schwein.wav"
+    },
+    {
+      "title": "just_do_it",
+      "category": "default",
+      "file": "just_do_it.wav"
+    },
+    {
+      "title": "hey_wake_up",
+      "category": "default",
+      "file": "hey_wake_up.wav"
+    },
+    {
+      "title": "monsterkill",
+      "category": "default",
+      "file": "monsterkill.wav"
+    },
+    {
+      "title": "humiliation",
+      "category": "default",
+      "file": "humiliation.wav"
+    },
+    {
+      "title": "perfect",
+      "category": "default",
+      "file": "perfect.wav"
+    },
+    {
+      "title": "wuhuu",
+      "category": "default",
+      "file": "wuhuu.wav"
+    },
+    {
+      "title": "montana_black_lache",
+      "category": "default",
+      "file": "montana_black_lache.wav"
+    },
+    {
+      "title": "muss_los_bruder",
+      "category": "default",
+      "file": "muss_los_bruder.wav"
+    },
+    {
+      "title": "Ich_verhungre",
+      "category": "default",
+      "file": "Ich_verhungre.wav"
+    },
+    {
+      "title": "ist_das_wirklich_milch",
+      "category": "default",
+      "file": "ist_das_wirklich_milch.wav"
+    },
+    {
+      "title": "klitschko",
+      "category": "default",
+      "file": "klitschko.wav"
+    },
+    {
+      "title": "Wer_klaut",
+      "category": "default",
+      "file": "Wer_klaut.wav"
+    },
+    {
+      "title": "Yodelling",
+      "category": "default",
+      "file": "Yodelling.wav"
+    },
+    {
+      "title": "mariachi",
+      "category": "default",
+      "file": "mariachi.wav"
+    },
+    {
+      "title": "Opernsaenger",
+      "category": "default",
+      "file": "Opernsaenger.wav"
+    },
+    {
+      "title": "Tagesschauintro",
+      "category": "default",
+      "file": "Intro.wav"
+    },
+    {
+      "title": "Die_Magische_Miesmuschel",
+      "category": "default",
+      "file": "Die_Magische_Miesmuschel.wav"
+    },
+    {
+      "title": "pewpewpew",
+      "category": "default",
+      "file": "pewpewpew.wav"
+    },
+    {
+      "title": "I_said_good_day",
+      "category": "default",
+      "file": "Axe_deny.wav"
+    },
+    {
+      "title": "user_kicked",
+      "category": "default",
+      "file": "user_kicked.wav"
+    },
+    {
+      "title": "banned",
+      "category": "default",
+      "file": "banned.wav"
+    },
+    {
+      "title": "wadu_hek",
+      "category": "default",
+      "file": "wadu_hek.wav"
+    },
+    {
+      "title": "kranplätze-müssen-verdichtet-sein",
+      "category": "default",
+      "file": "kranplätze-müssen-verdichtet-sein.wav"
+    },
+    {
+      "title": "kommen_der_arbeit_nicht_nach",
+      "category": "default",
+      "file": "kommen_der_arbeit_nicht_nach.wav"
+    },
+    {
+      "title": "Mama",
+      "category": "default",
+      "file": "Mama.wav"
+    },
+    {
+      "title": "Nerven",
+      "category": "default",
+      "file": "Nerven.wav"
+    },
+    {
+      "title": "Baby_lache",
+      "category": "default",
+      "file": "Baby_lache.wav"
+    },
+    {
+      "title": "montana_black_lache_2",
+      "category": "default",
+      "file": "montana_black_lache_2.wav"
+    },
+    {
+      "title": "20_Minuten",
+      "category": "default",
+      "file": "20_Minuten.wav"
+    },
+    {
+      "title": "2000_Jahre",
+      "category": "default",
+      "file": "2000_Jahre.wav"
+    },
+    {
+      "title": "Neuer_Erzaehler",
+      "category": "default",
+      "file": "Neuer_Erzaehler.wav"
+    },
+    {
+      "title": "Pferde",
+      "category": "default",
+      "file": "Pferde.wav"
+    },
+    {
+      "title": "Animateur",
+      "category": "default",
+      "file": "Animateur.wav"
+    },
+    {
+      "title": "Amateurpumper_hat_recht",
+      "category": "default",
+      "file": "Amateurpumper_hat_recht.wav"
+    },
+    {
+      "title": "Die_Zukunft",
+      "category": "default",
+      "file": "Die_Zukunft.wav"
+    },
+    {
+      "title": "Sweet_Ein_Bausparvertrag",
+      "category": "default",
+      "file": "Sweet_Ein_Bausparvertrag.wav"
+    },
+    {
+      "title": "Montana_black_lache_3",
+      "category": "default",
+      "file": "Montana_black_lache_3.wav"
+    },
+    {
+      "title": "Wir_nutzen_die_Technologie",
+      "category": "default",
+      "file": "Wir_nutzen_die_Technologie.wav"
+    },
+    {
+      "title": "mayo",
+      "category": "default",
+      "file": "mayo.wav"
+    },
+    {
+      "title": "Stirn",
+      "category": "default",
+      "file": "Stirn.wav"
+    },
+    {
+      "title": "partey",
+      "category": "default",
+      "file": "partey.wav"
+    },
+    {
+      "title": "Performance",
+      "category": "default",
+      "file": "Performance.wav"
+    },
+    {
+      "title": "german_power",
+      "category": "default",
+      "file": "german_power.wav"
+    },
+    {
+      "title": "Boop!",
+      "category": "default",
+      "file": "Boop!.wav"
+    },
+    {
+      "title": "game_plays_you",
+      "category": "default",
+      "file": "game_plays_you.wav"
+    },
+    {
+      "title": "Montana_black_lache_4",
+      "category": "default",
+      "file": "Montana_black_lache_4.wav"
+    },
+    {
+      "title": "Fenster",
+      "category": "default",
+      "file": "Fenster.wav"
+    },
+    {
+      "title": "6_einhalb_stunden",
+      "category": "default",
+      "file": "6_einhalb_stunden.wav"
+    },
+    {
+      "title": "12_sekunden",
+      "category": "default",
+      "file": "12_sekunden.wav"
+    },
+    {
+      "title": "3Uhr28",
+      "category": "default",
+      "file": "3Uhr28.wav"
+    },
+    {
+      "title": "ääääh_24_uhr",
+      "category": "default",
+      "file": "ääääh_24_uhr.wav"
+    },
+    {
+      "title": "8Uhr1",
+      "category": "default",
+      "file": "8Uhr1.wav"
+    },
+    {
+      "title": "1Min37",
+      "category": "default",
+      "file": "1Min37.wav"
+    },
+    {
+      "title": "DAYUM",
+      "category": "default",
+      "file": "DAYUM.wav"
+    },
+    {
+      "title": "John_Cena",
+      "category": "default",
+      "file": "John_Cena.wav"
+    },
+    {
+      "title": "Ich_mag_an_mir",
+      "category": "default",
+      "file": "Ich_mag_an_mir.wav"
+    },
+    {
+      "title": "hurr_durr",
+      "category": "default",
+      "file": "hurr_durr.wav"
+    },
+    {
+      "title": "hoch_die_hände",
+      "category": "default",
+      "file": "hoch_die_hände.wav"
+    },
+    {
+      "title": "Duell",
+      "category": "default",
+      "file": "Duell.wav"
+    },
+    {
+      "title": "Yugi",
+      "category": "default",
+      "file": "Yugi.wav"
+    },
+    {
+      "title": "Shiggy",
+      "category": "default",
+      "file": "Shiggy.wav"
+    },
+    {
+      "title": "wir_nehmen_einfach_Bikini_Bottom_und_schieben_es_wo_anders_hin",
+      "category": "default",
+      "file": "wir_nehmen_einfach_Bikini_Bottom_und_schieben_es_wo_anders_hin.wav"
+    },
+    {
+      "title": "ob_du_behindert_bist",
+      "category": "default",
+      "file": "ob_du_behindert_bist.wav"
+    },
+    {
+      "title": "butterfly",
+      "category": "default",
+      "file": "butterfly.wav"
+    },
+    {
+      "title": "children_behave",
+      "category": "default",
+      "file": "children_behave.wav"
+    },
+    {
+      "title": "hier_ist_patrick",
+      "category": "default",
+      "file": "hier_ist_patrick.wav"
+    },
+    {
+      "title": "3_Uhr_morgens!",
+      "category": "default",
+      "file": "3_Uhr_morgens!.wav"
+    },
+    {
+      "title": "Bin_da_wer_noch_",
+      "category": "default",
+      "file": "Bin_da_wer_noch_.wav"
+    },
+    {
+      "title": "Roastbeef_Huenchen_Pizza",
+      "category": "default",
+      "file": "Roastbeef_Huenchen_Pizza.wav"
+    },
+    {
+      "title": "Ich_bin_haeslich_und_ich_bin_Stolz",
+      "category": "default",
+      "file": "Ich_bin_haeslich_und_ich_bin_Stolz.wav"
+    },
+    {
+      "title": "wir_stinken",
+      "category": "default",
+      "file": "wir_stinken.wav"
+    },
+    {
+      "title": "Dinkleberg",
+      "category": "default",
+      "file": "Dinkleberg.wav"
+    },
+    {
+      "title": "Der_Junge_mit_dem_Football",
+      "category": "default",
+      "file": "Der_Junge_mit_dem_Football.wav"
+    },
+    {
+      "title": "Helfende_Elfen",
+      "category": "default",
+      "file": "Helfende_Elfen.wav"
+    },
+    {
+      "title": "Super_6",
+      "category": "default",
+      "file": "Super_6.wav"
+    },
+    {
+      "title": "Test",
+      "category": "default",
+      "file": "Test.wav"
+    },
+    {
+      "title": "2_1_Risiko",
+      "category": "default",
+      "file": "2_1_Risiko.wav"
+    },
+    {
+      "title": "feierabend_wie_das_duftet",
+      "category": "default",
+      "file": "feierabend_wie_das_duftet.wav"
+    },
+    {
+      "title": "pommersche",
+      "category": "default",
+      "file": "pommersche.wav"
+    },
+    {
+      "title": "aus_dem_buchen_rauch",
+      "category": "default",
+      "file": "aus_dem_buchen_rauch.wav"
+    },
+    {
+      "title": "Hut",
+      "category": "default",
+      "file": "Hut.wav"
+    },
+    {
+      "title": "Klaus_Klaus_Klaus",
+      "category": "default",
+      "file": "Klaus_Klaus_Klaus.wav"
+    },
+    {
+      "title": "Guenther",
+      "category": "default",
+      "file": "Guenther.wav"
+    },
+    {
+      "title": "Olaf",
+      "category": "default",
+      "file": "Olaf.wav"
+    },
+    {
+      "title": "Benjamin_Bluemchen",
+      "category": "default",
+      "file": "Benjamin_Bluemchen.wav"
+    },
+    {
+      "title": "Billy",
+      "category": "default",
+      "file": "Billy.wav"
+    },
+    {
+      "title": "Plankton_Krabs",
+      "category": "default",
+      "file": "Plankton_Krabs.wav"
+    },
+    {
+      "title": "Shrimps_mit_Reis",
+      "category": "default",
+      "file": "Shrimps_mit_Reis.wav"
+    },
+    {
+      "title": "krosse_krabbe_pizza",
+      "category": "default",
+      "file": "krosse_krabbe_pizza.wav"
+    },
+    {
+      "title": "krosse_krabbe_pizza2",
+      "category": "default",
+      "file": "krosse_krabbe_pizza2.wav"
+    },
+    {
+      "title": "pu_pu_pizza",
+      "category": "default",
+      "file": "pu_pu_pizza.wav"
+    },
+    {
+      "title": "Spider_Pig",
+      "category": "default",
+      "file": "Spider_Pig.wav"
+    },
+    {
+      "title": "Photosynthese",
+      "category": "default",
+      "file": "Photosynthese.wav"
+    },
+    {
+      "title": "zu_dunkel",
+      "category": "default",
+      "file": "zu_dunkel.wav"
+    },
+    {
+      "title": "Muskelbob",
+      "category": "default",
+      "file": "Muskelbob.wav"
+    },
+    {
+      "title": "Dumme_Leute",
+      "category": "default",
+      "file": "Dumme_Leute.wav"
+    },
+    {
+      "title": "Kannst_du",
+      "category": "default",
+      "file": "Kannst_du.wav"
+    },
+    {
+      "title": "Quallenfischerlied",
+      "category": "default",
+      "file": "Quallenfischerlied.wav"
+    },
+    {
+      "title": "kamehameha",
+      "category": "default",
+      "file": "kamehameha.wav"
+    },
+    {
+      "title": "this_is_crazy_talk",
+      "category": "default",
+      "file": "this_is_crazy_talk.wav"
+    },
+    {
+      "title": "Pudding",
+      "category": "default",
+      "file": "Pudding.wav"
+    },
+    {
+      "title": "I_told_ya",
+      "category": "default",
+      "file": "I_told_ya.wav"
+    },
+    {
+      "title": "Finger",
+      "category": "default",
+      "file": "Daumen.wav"
+    },
+    {
+      "title": "Ich_bin_Batman",
+      "category": "default",
+      "file": "Ich_bin_Batman.wav"
+    },
+    {
+      "title": "Spitzkopf",
+      "category": "default",
+      "file": "Spitzkopf.wav"
+    },
+    {
+      "title": "breakfast",
+      "category": "default",
+      "file": "breakfast.wav"
+    },
+    {
+      "title": "Mario",
+      "category": "default",
+      "file": "Mario.wav"
+    },
+    {
+      "title": "24",
+      "category": "default",
+      "file": "24.wav"
+    },
+    {
+      "title": "Ich_brauch_das",
+      "category": "default",
+      "file": "Ich_brauch_das.wav"
+    },
+    {
+      "title": "Ich_bin_ein",
+      "category": "default",
+      "file": "Ich_bin_ein.wav"
+    },
+    {
+      "title": "Kuchen",
+      "category": "default",
+      "file": "Kuchen.wav"
+    },
+    {
+      "title": "Ha_Gay",
+      "category": "default",
+      "file": "Ha_Gay.wav"
+    },
+    {
+      "title": "Desmond_der_Mondbaer",
+      "category": "default",
+      "file": "Desmond_der_Mondbaer.wav"
+    },
+    {
+      "title": "Elch",
+      "category": "default",
+      "file": "Elch.wav"
+    },
+    {
+      "title": "Geist",
+      "category": "default",
+      "file": "Geist.wav"
+    },
+    {
+      "title": "Karma",
+      "category": "default",
+      "file": "Karma.wav"
+    },
+    {
+      "title": "Kokosnuss",
+      "category": "default",
+      "file": "Kokosnuss.wav"
+    },
+    {
+      "title": "Sirene",
+      "category": "default",
+      "file": "Sirene.wav"
+    },
+    {
+      "title": "Taste",
+      "category": "default",
+      "file": "Taste.wav"
+    },
+    {
+      "title": "Hey_Freunde",
+      "category": "default",
+      "file": "Hey_Freunde.wav"
+    },
+    {
+      "title": "challenge_everything",
+      "category": "default",
+      "file": "challenge_everything.wav"
+    },
+    {
+      "title": "Caillou",
+      "category": "default",
+      "file": "Caillou.wav"
+    },
+    {
+      "title": "PS2",
+      "category": "default",
+      "file": "PS2.wav"
+    },
+    {
+      "title": "98_startup",
+      "category": "default",
+      "file": "98_startup.wav"
+    },
+    {
+      "title": "xp_startup",
+      "category": "default",
+      "file": "xp_startup.wav"
+    },
+    {
+      "title": "xp_shutdown",
+      "category": "default",
+      "file": "xp_shutdown.wav"
+    },
+    {
+      "title": "Krishna",
+      "category": "default",
+      "file": "Krishna.wav"
+    },
+    {
+      "title": "Who_you_gonna_call",
+      "category": "default",
+      "file": "Who_you_gonna_call.wav"
+    },
+    {
+      "title": "Banana_Phone",
+      "category": "default",
+      "file": "Banana_Phone.wav"
+    },
+    {
+      "title": "xbox",
+      "category": "default",
+      "file": "xbox.wav"
+    },
+    {
+      "title": "Try_to_look_a_chicken_in_the_eye",
+      "category": "default",
+      "file": "Try_to_look_a_chicken_in_the_eye.wav"
+    },
+    {
+      "title": "Alle_bitte_einsteigen",
+      "category": "default",
+      "file": "Alle_bitte_einsteigen.wav"
+    },
+    {
+      "title": "Steaknight_1",
+      "category": "default",
+      "file": "Steaknight_1.wav"
+    },
+    {
+      "title": "Steaknight_2",
+      "category": "default",
+      "file": "Steaknight_2.wav"
+    },
+    {
+      "title": "Begnadet",
+      "category": "default",
+      "file": "Begnadet.wav"
+    },
+    {
+      "title": "Rambo_Blaues_Licht",
+      "category": "default",
+      "file": "Rambo_Blaues_Licht.wav"
+    },
+    {
+      "title": "spacetaxi",
+      "category": "default",
+      "file": "spacetaxi.wav"
+    },
+    {
+      "title": "Montanablack_Lache_5",
+      "category": "default",
+      "file": "Montanablack_Lache_5.wav"
+    },
+    {
+      "title": "FailerSchaf",
+      "category": "default",
+      "file": "FailerSchaf.wav"
+    },
+    {
+      "title": "Apple_Notification",
+      "category": "default",
+      "file": "Apple_Notification.wav"
+    },
+    {
+      "title": "mall",
+      "category": "default",
+      "file": "mall.wav"
+    },
+    {
+      "title": "F.U.N1",
+      "category": "default",
+      "file": "F.U.N1.wav"
+    },
+    {
+      "title": "F.U.N2",
+      "category": "default",
+      "file": "F.U.N2.wav"
+    },
+    {
+      "title": "ohoh",
+      "category": "default",
+      "file": "ohoh.wav"
+    },
+    {
+      "title": "NANI!",
+      "category": "default",
+      "file": "NANI!.wav"
+    },
+    {
+      "title": "Blaubarsch",
+      "category": "default",
+      "file": "Blaubarsch.wav"
+    },
+    {
+      "title": "Samsung_Notification",
+      "category": "default",
+      "file": "Samsung_Notification.wav"
+    },
+    {
+      "title": "doh",
+      "category": "default",
+      "file": "doh.wav"
+    },
+    {
+      "title": "fresse",
+      "category": "default",
+      "file": "fresse.wav"
+    },
+    {
+      "title": "Sie_klauen_unsere_Jobs",
+      "category": "default",
+      "file": "Sie_klauen_unsere_Jobs.wav"
+    },
+    {
+      "title": "Milhouse_Idiota",
+      "category": "default",
+      "file": "Milhouse_Idiota.wav"
+    },
+    {
+      "title": "Saufen",
+      "category": "default",
+      "file": "Saufen.wav"
+    },
+    {
+      "title": "Naabecker",
+      "category": "default",
+      "file": "Naabecker.wav"
+    },
+    {
+      "title": "Herz_der_Natur",
+      "category": "default",
+      "file": "Herz_der_Natur.wav"
+    },
+    {
+      "title": "Felsquellwasser",
+      "category": "default",
+      "file": "Felsquellwasser.wav"
+    },
+    {
+      "title": "Bier",
+      "category": "default",
+      "file": "Bier.wav"
+    },
+    {
+      "title": "Legendär",
+      "category": "default",
+      "file": "Legendär.wav"
+    },
+    {
+      "title": "Doch_bei_Roller",
+      "category": "default",
+      "file": "Doch_bei_Roller.wav"
+    }
+  ]
+}
